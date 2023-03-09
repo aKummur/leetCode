@@ -1,3 +1,1 @@
-# machineLearning
-Machine Learning
 # leetCode
